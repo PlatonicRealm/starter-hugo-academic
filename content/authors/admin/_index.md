@@ -1,77 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Matthew W. Davies
+role: Theoretical Cosmology PhD Student
+avatar_filename: avatar.jpg
+bio: I'm a PhD student working on inflation. I have a broad range of interests
+  spanning physics, philosophy and religion. I like to present and discuss
+  fascinating ideas in these fields on my social media pages.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Cosmology
+  - Inflation
+  - Philosophy
+  - Atheism
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: m.w.davies@qmul.ac.uk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/PlatosRealm
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?hl=en&user=z3h-eIsAAAAJ
+  - icon: youtube
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.youtube.com/channel/UCIUZDClwsT9a8l4e2mt4flA
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+    link: https://www.linkedin.com/in/matthew-davies-b5798b19a/
+organizations:
+  - name: Queen Mary University of London
+    url: https://www.qmul.ac.uk/spa/astro/research/cosmology-and-relativity/
+education:
+  courses:
+    - course: PhD in Theoretical Cosmology
+      institution: Queen Mary University of London
+      year: ""
+    - course: MSc in Mathematical and Theoretical Physics
+      institution: University of Oxford
+      year: 2019
+    - course: BSc in Physics and Philosophy
+      institution: University of Oxford
+      year: 2018
+email: ""
+superuser: true
+highlight_name: false
 ---
+I am currently a PhD student in the Queen Mary University of London's Astronomy Unit. My research focuses on topics in early universe cosmology such as inflation, primordial black holes and gravitational waves. I regularly deliver outreach talks on both standard cosmology and my own research.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Outside of my research I dabble in several areas of philosophy. I am particularly interested in fine-tuning issues in cosmology and what we should infer from them. I am an atheist and regularly enjoy exploring arguments for and against the existence of God.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I find the world around us utterly fascinating to investigate from all angles. I love to share the interesting things I've learned via social media and outreach. On my two YouTube channels, Physically Debunked and Shots In The Quark, I discuss the science and philosophy which informs my atheism and various topics in philosophy of physics that I think more people should be aware of.
